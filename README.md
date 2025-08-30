@@ -30,7 +30,7 @@ Open this HTML file in your browser and you can pan, zoom, and click on markers 
 
 Here is a screenshot of the resulting interactive map with all Berlin doctors’ offices plotted
 (random data on this plot):
-![Example screenshot of interactive Berlin map](media/sample_map_of_office_mapping.jpeg.png)
+![Example screenshot of interactive Berlin map](media/sample_map_of_office_mapping.jpeg)
 ![Example screenshot of interactive Berlin map](media/zoom_example_showing_details.jpeg)
 
 
