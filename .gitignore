@@ -1,0 +1,57 @@
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*.swo
+*.bak
+*.old
+
+# System files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE and editor files
+.vscode/
+.idea/
+*.iml
+*.sublime-project
+*.sublime-workspace
+
+# Python specific
+__pycache__/
+*.py[cod]
+
+# Node.js specific (if JavaScript/TypeScript is used)
+node_modules/
+npm-debug.log
+yarn-error.log
+*.tsbuildinfo
+
+# Compiled files and binaries
+*.class
+*.o
+*.so
+*.dll
+*.exe
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment and dependency files
+.env
+*.env*
+.venv/
+*.egg-info/
+
+# Customizable patterns for generated files
+dist/
+build/
+output/
+*.min.*
+*pycache*
+
+# Specific files to this project
+aerzte_extracted_structured.csv
+arztpraxen_berlin.html
+
