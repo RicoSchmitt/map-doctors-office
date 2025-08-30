@@ -43,6 +43,9 @@ platform).
 ## Installation
 I recommend a virtual environment. Make use of the requirements.txt for creating it.
 
+## Google Maps Embed API
+You need a Google Maps Embed API key. Please find documentation on this here: https://developers.google.com/maps/documentation/embed/get-started
+
 ## Acknowledgements
 
 This project makes use of several open-source tools and data sources:
