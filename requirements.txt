@@ -1,0 +1,5 @@
+pandas
+camelot-py[cv]
+openpyxl
+requests
+folium
