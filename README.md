@@ -55,4 +55,7 @@ This project makes use of several open-source tools and data sources:
 - [Folium](https://python-visualization.github.io/folium/) and [Leaflet.js](https://leafletjs.com/) for interactive maps  
 - [OpenStreetMap](https://www.openstreetmap.org/) contributors for map tiles and geographic data  
 
+## License
 
+This project is licensed under the [MIT License](LICENSE).  
+You are free to use, modify, and distribute this software for any purpose, with or without attribution, under the simple terms of the MIT license.
