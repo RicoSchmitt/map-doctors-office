@@ -2,6 +2,7 @@
 
 In the 10th semester at Charité, students must select a doctor's office for general medicine.  
 Unfortunately, the university only provides a long PDF list of practices. This makes structured analysis and quick geographic orientation difficult.
+This repository is a private project (and in no way associated with any institution).
 
 This repository provides two scripts that solve the problem:
 
