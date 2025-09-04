@@ -2,7 +2,8 @@
 
 In the 10th semester at Charité, students must select a doctor's office for general medicine.  
 Unfortunately, the university only provides a long PDF list of practices. This makes structured analysis and quick geographic orientation difficult.
-This repository is a private project (and in no way associated with any institution).
+This repository is a private project (and in no way associated with any institution). The sample
+data shown was randomly generated.
 
 This repository provides two scripts that solve the problem:
 
@@ -22,7 +23,8 @@ This repository provides two scripts that solve the problem:
 Use map_doctors.py to geocode the addresses and display them on an interactive, zoomable map of Berlin.
 ```bash
 # export your Google Maps API key (or inline when running the script)
-export GOOGLE_MAPS_API_KEY="YOUR_KEY_HERE" python map_doctors.py
+export GOOGLE_MAPS_API_KEY="YOUR_KEY_HERE" 
+python map_doctors.py
 ```
 Output: arztpraxen_berlin.html
 Open this HTML file in your browser and you can pan, zoom, and click on markers to see the details of each office.
